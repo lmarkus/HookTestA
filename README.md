@@ -1,2 +1,2 @@
 # HookTestA
-Quick test repo for ReviewMe Bot
+Quick test repo for ReviewMe Bot.
